@@ -13,9 +13,10 @@ h1 {
     margin-left: 5px;
 }
 
-#rcorners1 {
-    border-radius: 25px;
+.rcorners {
+	border-radius: 25px;
     background: #73AD21;
     padding: 20px; 
     width: 300px;
-    } 
+}
+
