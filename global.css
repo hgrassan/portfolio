@@ -1,0 +1,42 @@
+	.nav {
+	    margin: 0 auto;
+	    padding: 10px;
+	    border-radius: 10px;
+	    background: #66c2ff; 
+	}
+
+	h1 {
+	 	font-size: 50px;
+	 	color: #aa0a5f;
+	 	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	 	text-decoration: underline;
+	 	margin-top: 15px;
+	    margin-bottom: 5px;
+	    margin-right: 5px;
+	    margin-left: 5px;
+	 }
+
+	h2{
+		color: #FA0936;
+	}
+
+	body {
+		background-color: #daf2e7;
+		padding: 20px;
+		font-family: "Trebuchet MS", Helvetica, sans-serif;
+	}
+/* unvisited link */
+	a:link {
+	    color: #aa0a5f;
+
+	}
+
+/* mouse over link */
+	a:hover {
+	    font-size: 20px;
+	    }
+
+/* selected link */
+	a:active {
+	    color: blue;
+	}
